@@ -16,7 +16,7 @@ Una aplicación que permite buscar y visualizar gifs animados de manera sencilla
 
 ¡Haz clic en la siguiente imagen para ver la aplicación en acción!  
 
-[![Demo](https://raw.githubusercontent.com/giaramayo/gifs-app/refs/heads/main/assets/demo.png)](https://giaramayo.github.io/gifs-app/dashboard/trending)
+[![Demo](https://raw.githubusercontent.com/giaramayo/gifs-app/refs/heads/main/assets/demo.png)](https://giaramayo.github.io/Gifs/dashboard/trending)
 
 ---
 
